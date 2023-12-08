@@ -9,3 +9,6 @@ ai chips &amp; startups
 - https://www.youtube.com/playlist?list=PLpZKwgOOdKTp5k4Aeq3bGNUtTbxhHDhdT
 - https://www.youtube.com/@TechTechPotato
   The AI Hardware Show
+
+- https://hotchips.org/
+  Hot Chips

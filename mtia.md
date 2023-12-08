@@ -14,3 +14,14 @@
 - https://www.nextplatform.com/2023/05/18/meta-platforms-crafts-homegrown-ai-inference-chip-ai-training-next/
   2023/05/18
   Meta Platforms Crafts Homegrown AI Inference Chip, AI Training Next
+
+- https://ai.meta.com/blog/meta-training-inference-accelerator-AI-MTIA/
+  MTIA v1: Meta’s first-generation AI inference accelerator
+  May 18, 2023
+- https://ai.meta.com/blog/meta-ai-infrastructure-overview/
+  Reimagining Meta’s infrastructure for the AI age
+  May 18, 2023
+
+- https://atscaleconference.com/videos/mtia-metas-first-generation-of-ai-accelerators/
+  MTIA: Meta’s First Generation of AI Accelerators
+  May 18, 2023
