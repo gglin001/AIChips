@@ -6,6 +6,11 @@
   2023/12/01
   Meta Sees Little Risk in RISC-V Custom Accelerators
 
+- https://www.youtube.com/watch?v=ad9XXHEqilE
+  Keynote: Building Data Center Scale SoC's using RISC-V at Meta - Prahlad Venkatapuram
+  RISC-V Summit North America 2023
+  Nov 7, 2023
+
 - https://dl.acm.org/doi/10.1145/3579371.3589348
   17 June 2023
   MTIA: First Generation Silicon Targeting Meta's Recommendation Systems
