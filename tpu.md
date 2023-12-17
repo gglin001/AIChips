@@ -1,9 +1,21 @@
 # Google TPU
 
-- TODO, more slides on hot chips
+- https://cloud.google.com/tpu?hl=en
+- https://cloud.google.com/tpu/docs
+
+- https://cloud.google.com/tpu/docs/v5p-training
+  Cloud TPU v5p training
 
 - https://cloud.google.com/tpu/docs/system-architecture-tpu-vm
   TPU v1, v2, v3, v4, v5e arch & tpu papers
+
+- https://cloud.google.com/blog/products/ai-machine-learning/introducing-cloud-tpu-v5p-and-ai-hypercomputer
+  Enabling next-generation AI workloads: Announcing TPU v5p and AI Hypercomputer
+  December 7, 2023
+
+- https://cloud.google.com/blog/products/compute/using-cloud-tpu-multislice-to-scale-ai-workloads
+  How to scale AI training to up to tens of thousands of Cloud TPU chips with Multislice
+  September 1, 2023
 
 - https://dl.acm.org/doi/10.1145/3579371.3589350
   2023-06-17
