@@ -1,5 +1,18 @@
 # Google TPU
 
+## notes
+
+- VLIW, XLA for the compiler
+- tpu v2: Scalar Unit + Vector Unit + Matrix Multiply Unit + Transpose / Permute Unit + Interconnect + HBM, from "HC32 PPT"
+- Why 128x128? 平衡的选择, 详细见 paper
+
+- www.doc.ic.ac.uk/~wl/teachlocal/cuscomp/notes/cc07notes.pdf
+  Systolic array example
+
+## tpu
+
+- search "TPU" or "google" in [hot_chips.md](./hot_chips.md)
+
 - https://cloud.google.com/tpu?hl=en
 - https://cloud.google.com/tpu/docs
 
@@ -13,6 +26,7 @@
   Enabling next-generation AI workloads: Announcing TPU v5p and AI Hypercomputer
   December 7, 2023
 
+- https://cloud.google.com/tpu/docs/multislice-introduction
 - https://cloud.google.com/blog/products/compute/using-cloud-tpu-multislice-to-scale-ai-workloads
   How to scale AI training to up to tens of thousands of Cloud TPU chips with Multislice
   September 1, 2023
