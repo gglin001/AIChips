@@ -15,7 +15,16 @@ https://www.streamcomputing.com/
   注册(使用手机号码)后可以访问
 - https://docs.streamcomputing.com/zh/latest/
   Welcome to Stream Computing Documentation!
+- https://sources.streamcomputing.com/
+  for SDKs, check doc first
 
 - https://github.com/Stream-Computing/
   GH org
   not activate now(2023Q4)
+
+## ref
+
+- https://zhuanlan.zhihu.com/p/617390505
+  希姆计算：基于 TVM 的 DSA AI 编译器构建 - 知乎
+  2023 Meet TVM
+  2023-03-27
