@@ -15,10 +15,12 @@ https://www.vastaitech.com
   瀚博开发者中心
   需要登录后使用, 没有提供注册接口
 
-## ref
-
+- https://pypi.org/user/vastai/
 - https://pypi.org/project/vaststream/
-  VastStream wheel pkg by vastaitech
+  The SDK for vastai device.
+  vaststream 2.2.0, Released: Aug 18, 2023
+
+## ref
 
 - https://www.vastaitech.com/newsroom/company-news/42
   瀚博半导体 2023 新品发布 开启人工智能+元宇宙算力序章
