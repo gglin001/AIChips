@@ -11,6 +11,16 @@ https://www.mthreads.com
 - https://www.mthreads.com/product/S3000
   S3000
 
+- https://developer.mthreads.com/
+  developer center
+  支持用户注册
+  令人失望的是无法真正的下载 MUSA Toolkits(TODO: 确认是否是浏览器的问题)
+
+- https://developer.mthreads.com/musa/musa-toolkit
+  musa-toolkit
+- https://developer.mthreads.com/musa/musa-ai
+  musa-ai
+
 - https://github.com/MooreThreads
   GH org
 - https://github.com/MooreThreads/torch_musa
