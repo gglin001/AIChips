@@ -20,9 +20,15 @@ https://www.streamcomputing.com/
 
 - https://github.com/Stream-Computing/
   GH org
-  not activate now(2023Q4)
+  not active now(2023Q4)
 
 ## ref
+
+- https://www.usenix.org/conference/osdi23/presentation/zhao
+- https://www.usenix.org/system/files/osdi23-zhao.pdf
+  Effectively Scheduling Computational Graphs of Deep Neural Networks toward Their Domain-Specific Accelerators
+  osdi23
+  July 10–12, 2023
 
 - https://zhuanlan.zhihu.com/p/617390505
   希姆计算：基于 TVM 的 DSA AI 编译器构建 - 知乎
