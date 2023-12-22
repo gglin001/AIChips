@@ -6,10 +6,10 @@ https://www.mthreads.com
 
 ## links
 
-- https://www.mthreads.com/product/S2000
-  S2000
 - https://www.mthreads.com/product/S3000
   S3000
+- https://www.mthreads.com/product/S2000
+  S2000
 
 - https://developer.mthreads.com/
   developer center
