@@ -21,6 +21,15 @@ https://www.visinextek.com
 
 ## ref
 
+- https://i.gasgoo.com/news/70374928.html
+  智驾芯片赛道再添新玩家，为旌科技发布重磅新品 - 盖世汽车社区
+  2023-12-22
+  TODO: add news from visinextek.com
+
+  ```
+  为旌御行系列芯片共包括VS919、VS919L、VS909三款产品，基于差异化的算力配置，以及出色的功耗管理，可以覆盖从ADAS，到复杂行泊一体域控的多样化开发需求。其中，VS909主要聚焦简单的ADAS应用，而VS919L和VS919则可以支持5R6V行泊一体方案。
+  ```
+
 - https://www.visinextek.com/News/133.html
   为旌科技参加 ICCAD2023 并发表主题演讲
   2023.11.11
