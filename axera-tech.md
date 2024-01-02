@@ -7,6 +7,8 @@ https://www.axera-tech.com/
 ## links
 
 - chips:
+- https://www.axera-tech.com/product/T7970963250765627634
+  630C、620Q
 - https://www.axera-tech.com/product/T7920854714944921823
   AX650N
 - https://www.axera-tech.com/product/T7920820512469892721
@@ -37,6 +39,10 @@ https://www.axera-tech.com/
   > AX-Pipeline 由 爱芯元智 主导开发。该项目基于 AXera-Pi 展示 ISP 图像处理、NPU、编码、显示 等功能模块软件调用方法，方便社区开发者进行快速评估和二次开发自己的多媒体应用。
 
 ## ref
+
+- https://www.eetop.cn/semi/6960261.html
+  爱芯元智发布新一代 IPC SoC 芯片 AX630C 和 AX620Q
+  2023-11-01 07:59:48 来源：EETOP
 
 - https://www.axera-tech.com/news/A7895832358013874382
   爱芯元智亮相高工智能汽车开发者大会，宣布正式入局车载市场
