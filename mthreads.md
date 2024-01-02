@@ -16,6 +16,9 @@ https://www.mthreads.com
   支持用户注册
   令人失望的是无法真正的下载 MUSA Toolkits(TODO: 确认是否是浏览器的问题)
 
+- https://mcconline.mthreads.com/
+  摩尔线程应用商店
+
 - https://developer.mthreads.com/musa/musa-toolkit
   musa-toolkit
 - https://developer.mthreads.com/musa/musa-ai
