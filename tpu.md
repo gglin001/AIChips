@@ -68,6 +68,13 @@
   2019
   The Datacenter as a Computer: Designing Warehouse-Scale Machines, Third Edition
 
+- https://www.amazon.com.au/Architecture-Departments-Electrical-Engineering-University-dp-0128119055/dp/0128119055/
+  Computer Architecture: A Quantitative Approach 6th
+  23 November 2017
+
+  > ch6: Warehouse-Scale Computers to Exploit Request-Level and Data-Level Parallelism
+  > ch7.4: Google’s Tensor Processing Unit, an Inference Data Center Accelerator
+
 - http://arxiv.org/abs/1704.04760
   2017-04-16
   In-Datacenter Performance Analysis of a Tensor Processing Unit
