@@ -1,3 +1,0 @@
-# ai chip startups
-
-- TODO
