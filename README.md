@@ -34,3 +34,7 @@ ai chips &amp; startups
 
 - https://hotchips.org/
   Hot Chips
+
+## LICENSE
+
+All data is publicly available information, no private data will be saved here.
