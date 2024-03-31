@@ -13,3 +13,42 @@
 
 - http://www.tsingmicro.com/
   tsingmicro/清微智能
+
+- https://www.innosilicon.cn/
+  innosilicon/芯动科技
+
+- https://www.etched.com/
+  etched
+
+- https://bst.ai/zh.html
+  blacksesame/黑芝麻智能
+
+- https://www.sietium.com/
+  sietium/芯瞳半导体
+
+- https://www.kunlunxin.com/
+  kunlunxin/昆仑芯科技
+
+- https://yizhu-tech.com/
+  yizhu-tech/亿铸科技
+
+- https://www.lanxincomputing.com/
+  lanxincomputing/蓝芯算力
+
+- https://www.sophon.ai/
+  sophon/算能科技
+
+- https://www.enflame-tech.com/
+  enflame-tech/燧原科技
+
+- https://denglinai.com/
+  denglinai/登临科技
+
+- https://www.birentech.com/
+  birentech/壁仞科技
+
+- https://www.intellif.com
+  intellif/云天励飞
+
+- https://www.metax-tech.com
+  metax-tech/沐曦集成电路
