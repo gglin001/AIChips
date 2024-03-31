@@ -1,4 +1,4 @@
-# ai_chip_startups
+# AIChips
 
 ai chips &amp; startups
 
