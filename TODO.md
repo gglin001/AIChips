@@ -52,3 +52,9 @@
 
 - https://www.metax-tech.com
   metax-tech/沐曦集成电路
+
+- http://www.xdxct.com/
+  xdxct/象帝先计算技术
+
+- https://www.rivosinc.com
+  rivosinc
