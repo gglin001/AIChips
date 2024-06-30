@@ -8,7 +8,7 @@
 
 ## links
 
-- news/links from company
+- news/links from company(downloawd webpage using `SingleFile`, add key infos here)
 
 ## ref
 
