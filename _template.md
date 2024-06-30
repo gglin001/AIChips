@@ -8,8 +8,8 @@
 
 ## links
 
-- news/links from company(downloawd webpage using `SingleFile`, add key infos here)
+- product links from company(downloawd webpage using `SingleFile`, add key infos here)
 
 ## ref
 
-- other links about the product
+- news/application/other links about the products
