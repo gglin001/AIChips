@@ -1,6 +1,6 @@
 # axera-tech/爱芯元智
 
-https://www.axera-tech.com/
+- https://www.axera-tech.com/
 
 ## notes
 

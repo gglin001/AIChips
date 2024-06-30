@@ -1,6 +1,6 @@
 # Semidynamics
 
-https://semidynamics.com
+- https://semidynamics.com
 
 ## ref
 

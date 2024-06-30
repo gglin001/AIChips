@@ -1,6 +1,6 @@
 # mthreads/摩尔线程
 
-https://www.mthreads.com
+- https://www.mthreads.com
 
 ## notes
 
