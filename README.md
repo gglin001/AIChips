@@ -42,7 +42,7 @@ All data is publicly available information, no private data will be saved here.
   sophon/算能科技
 
 - https://www.iluvatar.com/
-  天数智芯
+  iluvatar/天数智芯
 
 - https://www.enflame-tech.com/
   enflame-tech/燧原科技
