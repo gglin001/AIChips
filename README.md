@@ -13,6 +13,7 @@ ai chips &amp; startups
 - [kunlunxin/昆仑芯](./kunlunxin.md)
 - [mthreads/摩尔线程](./mthreads.md)
 - [mtia](./mtia.md)
+- [rain](./rain.md)
 - [semidynamics](./semidynamics.md)
 - [streamcomputing/希姆计算](./streamcomputing.md)
 - [tenstorrent](./tenstorrent.md)
@@ -42,7 +43,7 @@ All data is publicly available information, no private data will be saved here.
   sophon/算能科技
 
 - https://www.iluvatar.com/
-  天数智芯
+  iluvatar/天数智芯
 
 - https://www.enflame-tech.com/
   enflame-tech/燧原科技

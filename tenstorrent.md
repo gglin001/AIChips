@@ -1,6 +1,10 @@
 # tenstorrent
 
-https://tenstorrent.com
+- https://tenstorrent.com
+
+## notes
+
+- TODO: check github repos
 
 ## links
 
