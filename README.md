@@ -13,6 +13,7 @@ ai chips &amp; startups
 - [kunlunxin/昆仑芯](./kunlunxin.md)
 - [mthreads/摩尔线程](./mthreads.md)
 - [mtia](./mtia.md)
+- [rain](./rain.md)
 - [semidynamics](./semidynamics.md)
 - [streamcomputing/希姆计算](./streamcomputing.md)
 - [tenstorrent](./tenstorrent.md)
