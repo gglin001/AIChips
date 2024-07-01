@@ -81,13 +81,61 @@ All data is publicly available information, no private data will be saved here.
 - https://www.lanxincomputing.com/
   lanxincomputing/蓝芯算力
 
+- http://www.tecorigin.com/
+  tecorigin/太初
+
+- https://www.cambricon.com/
+  cambricon/寒武纪
+
+- https://www.canaan-creative.com/
+  canaan-creative/嘉楠科技
+
+- https://www.cixtech.com/
+  cixtech/此芯科技
+
+- https://www.eeasytech.com/
+  eeasytech/亿智电子
+
+- https://www.hygon.cn/
+  hygon/海光
+
+- https://www.moffettai.com/
+  moffettai/墨芯
+
+- https://www.xrvm.cn/
+  XuanTie/玄铁
+
+- https://www.t-head.cn/
+  T-Head/平头哥
+
+- https://www.unisoc.com/cn_zh/
+  unisoc/紫光展锐
+
 ---
+
+- https://www.qualcomm.com/
+  Qualcomm
+
+- https://www.mediatek.com/
+  MediaTek
+
+- https://www.sifive.com/
+  SiFive
+
+- https://www.andestech.com
+  andestech
+
+- https://www.ventanamicro.com/
+  ventanamicro
 
 - https://www.rivosinc.com
   rivosinc
 
 - https://groq.com
   groq
+
+- https://www.untether.ai/
+  untether
 
 - https://www.etched.com/
   etched
