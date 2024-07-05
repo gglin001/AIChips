@@ -111,6 +111,9 @@ All data is publicly available information, no private data will be saved here.
 - https://www.unisoc.com/cn_zh/
   unisoc/紫光展锐
 
+- https://www.eswincomputing.com/
+  eswincomputing/奕斯伟计算
+
 ---
 
 - https://www.qualcomm.com/
