@@ -114,6 +114,9 @@ All data is publicly available information, no private data will be saved here.
 - https://www.eswincomputing.com/
   eswincomputing/奕斯伟计算
 
+- https://www.lightelligence.co/
+  lightelligence/曦智科技
+
 ---
 
 - https://www.qualcomm.com/
