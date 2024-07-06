@@ -111,6 +111,13 @@ All data is publicly available information, no private data will be saved here.
 - https://www.unisoc.com/cn_zh/
   unisoc/紫光展锐
 
+- https://www.eswincomputing.com/
+  eswincomputing/奕斯伟计算
+
+- https://www.lightelligence.co/
+- https://www.xztech.ai/
+  lightelligence/xztech/曦智科技
+
 ---
 
 - https://www.qualcomm.com/
@@ -139,3 +146,6 @@ All data is publicly available information, no private data will be saved here.
 
 - https://www.etched.com/
   etched
+
+- https://lightmatter.co/
+  lightmatter
