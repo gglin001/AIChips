@@ -115,7 +115,8 @@ All data is publicly available information, no private data will be saved here.
   eswincomputing/奕斯伟计算
 
 - https://www.lightelligence.co/
-  lightelligence/曦智科技
+- https://www.xztech.ai/
+  lightelligence/xztech/曦智科技
 
 ---
 
