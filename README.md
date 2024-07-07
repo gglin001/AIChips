@@ -149,3 +149,6 @@ All data is publicly available information, no private data will be saved here.
 
 - https://lightmatter.co/
   lightmatter
+
+- https://quadric.io/
+  quadric(GPNPU)
