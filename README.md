@@ -152,3 +152,6 @@ All data is publicly available information, no private data will be saved here.
 
 - https://quadric.io/
   quadric(GPNPU)
+
+- https://mythic.ai/
+  mythic
