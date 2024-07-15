@@ -118,6 +118,9 @@ All data is publicly available information, no private data will be saved here.
 - https://www.xztech.ai/
   lightelligence/xztech/曦智科技
 
+- https://www.semidrive.com/
+  semidrive/芯驰科技
+
 ---
 
 - https://www.qualcomm.com/
