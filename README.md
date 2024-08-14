@@ -40,6 +40,7 @@ All data is publicly available information, no private data will be saved here.
 ## TODO list
 
 - https://www.sophon.ai/
+- https://forum.sophgo.com/
   sophon/算能科技
 
 - https://www.iluvatar.com/
@@ -158,3 +159,6 @@ All data is publicly available information, no private data will be saved here.
 
 - https://mythic.ai/
   mythic
+
+- https://www.axelera.ai/
+  axelera
