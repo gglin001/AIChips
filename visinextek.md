@@ -1,6 +1,6 @@
 # visinextek/为旌科技
 
-https://www.visinextek.com
+- https://www.visinextek.com
 
 ## tags
 
