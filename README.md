@@ -54,51 +54,41 @@ ai chips &amp; startups
 - https://www.visinextek.com
   [visinextek/为旌科技](./visinextek.md)
 
-- https://www.sophon.ai/
-- https://forum.sophgo.com/
-  sophon/算能科技
-
-- https://www.iluvatar.com/
-  iluvatar/天数智芯
-
-- https://www.enflame-tech.com/
-  enflame-tech/燧原科技
-
-- https://denglinai.com/
-  denglinai/登临科技
-
-- https://www.birentech.com/
-  birentech/壁仞科技
-
-- https://www.metax-tech.com
-  metax-tech/沐曦集成电路
-
-- http://www.xdxct.com/
-  xdxct/象帝先计算技术
-
-- https://www.intellif.com
-  intellif/云天励飞
-
-- https://www.innosilicon.cn/
-  innosilicon/芯动科技
+- http://www.tecorigin.com/
+  tecorigin/太初
 
 - http://www.tsingmicro.com/
   tsingmicro/清微智能
 
+- http://www.xdxct.com/
+  xdxct/象帝先计算技术
+
 - https://bst.ai/zh.html
   blacksesame/黑芝麻智能
 
-- https://www.sietium.com/
-  sietium/芯瞳半导体
+- https://denglinai.com/
+  denglinai/登临科技
 
-- https://yizhu-tech.com/
-  yizhu-tech/亿铸科技
+- https://groq.com
+  groq
 
-- https://www.lanxincomputing.com/
-  lanxincomputing/蓝芯算力
+- https://lightmatter.co/
+  lightmatter
 
-- http://www.tecorigin.com/
-  tecorigin/太初
+- https://mythic.ai/
+  mythic
+
+- https://quadric.io/
+  quadric(GPNPU)
+
+- https://www.andestech.com
+  Andes
+
+- https://www.axelera.ai/
+  axelera
+
+- https://www.birentech.com/
+  birentech/壁仞科技
 
 - https://www.cambricon.com/
   cambricon/寒武纪
@@ -112,14 +102,57 @@ ai chips &amp; startups
 - https://www.eeasytech.com/
   eeasytech/亿智电子
 
+- https://www.enflame-tech.com/
+  enflame-tech/燧原科技
+
+- https://www.eswincomputing.com/
+  eswincomputing/奕斯伟计算
+
+- https://www.etched.com/
+  etched
+
 - https://www.hygon.cn/
   hygon/海光
+
+- https://www.iluvatar.com/
+  iluvatar/天数智芯
+
+- https://www.innosilicon.cn/
+  innosilicon/芯动科技
+
+- https://www.intellif.com
+  intellif/云天励飞
+
+- https://www.lanxincomputing.com/
+  lanxincomputing/蓝芯算力
+
+- https://www.mediatek.com/
+  MediaTek
+
+- https://www.metax-tech.com
+  metax-tech/沐曦集成电路
 
 - https://www.moffettai.com/
   moffettai/墨芯
 
-- https://www.xrvm.cn/
-  XuanTie/玄铁
+- https://www.qualcomm.com/
+  Qualcomm
+
+- https://www.rivosinc.com
+  rivosinc
+
+- https://www.semidrive.com/
+  semidrive/芯驰科技
+
+- https://www.sietium.com/
+  sietium/芯瞳半导体
+
+- https://www.sifive.com/
+  SiFive
+
+- https://www.sophon.ai/
+- https://forum.sophgo.com/
+  sophon/算能科技
 
 - https://www.t-head.cn/
   T-Head/平头哥
@@ -127,54 +160,20 @@ ai chips &amp; startups
 - https://www.unisoc.com/cn_zh/
   unisoc/紫光展锐
 
-- https://www.eswincomputing.com/
-  eswincomputing/奕斯伟计算
-
-- https://www.lightelligence.co/
-- https://www.xztech.ai/
-  lightelligence/xztech/曦智科技
-
-- https://www.semidrive.com/
-  semidrive/芯驰科技
-
-- https://www.qualcomm.com/
-  Qualcomm
-
-- https://www.mediatek.com/
-  MediaTek
-
-- https://www.sifive.com/
-  SiFive
-
-- https://www.andestech.com
-  andestech
+- https://www.untether.ai/
+  untether
 
 - https://www.ventanamicro.com/
   ventanamicro
 
-- https://www.rivosinc.com
-  rivosinc
+- https://www.xrvm.cn/
+  XuanTie/玄铁
 
-- https://groq.com
-  groq
+- https://www.xztech.ai/
+  xztech/曦智科技
 
-- https://www.untether.ai/
-  untether
-
-- https://www.etched.com/
-  etched
-
-- https://lightmatter.co/
-  lightmatter
-
-- https://quadric.io/
-  quadric(GPNPU)
-
-- https://mythic.ai/
-  mythic
-
-- https://www.axelera.ai/
-  axelera
+- https://yizhu-tech.com/
+  yizhu-tech/亿铸科技
 
 ## refs & links
 
