@@ -6,6 +6,9 @@ ai chips &amp; startups
 
 ## list
 
+- https://www.andestech.com
+  Andes
+
 - https://e.huawei.com/cn/products/computing/ascend
 - https://www.hiascend.com/zh/
   [ascend](./ascend.md)
@@ -13,82 +16,17 @@ ai chips &amp; startups
 - https://github.com/aws-neuron
   [aws-neuron](./aws-neuron.md)
 
-- https://www.axera-tech.com/
-  [axera-tech/爱芯元智](./axera-tech.md)
-
-- https://www.esperanto.ai/
-  [esperanto](./esperanto.md)
-
-- https://www.kunlunxin.com
-  [kunlunxin/昆仑芯](./kunlunxin.md)
-
-- https://www.mthreads.com
-  [mthreads/摩尔线程](./mthreads.md)
-
-- https://ai.meta.com/blog/meta-training-inference-accelerator-AI-MTIA/
-- https://ai.meta.com/blog/next-generation-meta-training-inference-accelerator-AI-MTIA/
-  [meta-mtia](./meta-mtia.md)
-
-- https://rain.ai
-  [rain](./rain.md)
-
-- https://semidynamics.com
-  [semidynamics](./semidynamics.md)
-
-- https://www.streamcomputing.com/
-  [streamcomputing/希姆计算](./streamcomputing.md)
-
-- https://tenstorrent.com
-  [tenstorrent](./tenstorrent.md)
-
-- https://cloud.google.com/tpu?hl=en
-- https://cloud.google.com/tpu/docs
-  [google-tpu](./google-tpu.md)
-
-- https://www.vastaitech.com
-  [vastaitech/瀚博半导体](./vastaitech.md)
-
-- https://www.ventanamicro.com
-  [ventanamicro](./ventanamicro.md)
-
-- https://www.visinextek.com
-  [visinextek/为旌科技](./visinextek.md)
-
-- http://www.tecorigin.com/
-  tecorigin/太初
-
-- http://www.tsingmicro.com/
-  tsingmicro/清微智能
-
-- http://www.xdxct.com/
-  xdxct/象帝先计算技术
-
-- https://bst.ai/zh.html
-  blacksesame/黑芝麻智能
-
-- https://denglinai.com/
-  denglinai/登临科技
-
-- https://groq.com
-  groq
-
-- https://lightmatter.co/
-  lightmatter
-
-- https://mythic.ai/
-  mythic
-
-- https://quadric.io/
-  quadric(GPNPU)
-
-- https://www.andestech.com
-  Andes
-
 - https://www.axelera.ai/
   axelera
 
+- https://www.axera-tech.com/
+  [axera-tech/爱芯元智](./axera-tech.md)
+
 - https://www.birentech.com/
   birentech/壁仞科技
+
+- https://bst.ai/zh.html
+  blacksesame/黑芝麻智能
 
 - https://www.cambricon.com/
   cambricon/寒武纪
@@ -99,17 +37,30 @@ ai chips &amp; startups
 - https://www.cixtech.com/
   cixtech/此芯科技
 
+- https://denglinai.com/
+  denglinai/登临科技
+
 - https://www.eeasytech.com/
   eeasytech/亿智电子
 
 - https://www.enflame-tech.com/
   enflame-tech/燧原科技
 
+- https://www.esperanto.ai/
+  [esperanto](./esperanto.md)
+
 - https://www.eswincomputing.com/
   eswincomputing/奕斯伟计算
 
 - https://www.etched.com/
   etched
+
+- https://cloud.google.com/tpu?hl=en
+- https://cloud.google.com/tpu/docs
+  [google-tpu](./google-tpu.md)
+
+- https://groq.com
+  groq
 
 - https://www.hygon.cn/
   hygon/海光
@@ -123,11 +74,21 @@ ai chips &amp; startups
 - https://www.intellif.com
   intellif/云天励飞
 
+- https://www.kunlunxin.com
+  [kunlunxin/昆仑芯](./kunlunxin.md)
+
 - https://www.lanxincomputing.com/
   lanxincomputing/蓝芯算力
 
+- https://lightmatter.co/
+  lightmatter
+
 - https://www.mediatek.com/
   MediaTek
+
+- https://ai.meta.com/blog/meta-training-inference-accelerator-AI-MTIA/
+- https://ai.meta.com/blog/next-generation-meta-training-inference-accelerator-AI-MTIA/
+  [meta-mtia](./meta-mtia.md)
 
 - https://www.metax-tech.com
   metax-tech/沐曦集成电路
@@ -135,14 +96,29 @@ ai chips &amp; startups
 - https://www.moffettai.com/
   moffettai/墨芯
 
+- https://www.mthreads.com
+  [mthreads/摩尔线程](./mthreads.md)
+
+- https://mythic.ai/
+  mythic
+
+- https://quadric.io/
+  quadric(GPNPU)
+
 - https://www.qualcomm.com/
   Qualcomm
+
+- https://rain.ai
+  [rain](./rain.md)
 
 - https://www.rivosinc.com
   rivosinc
 
 - https://www.semidrive.com/
   semidrive/芯驰科技
+
+- https://semidynamics.com
+  [semidynamics](./semidynamics.md)
 
 - https://www.sietium.com/
   sietium/芯瞳半导体
@@ -154,8 +130,20 @@ ai chips &amp; startups
 - https://forum.sophgo.com/
   sophon/算能科技
 
+- https://www.streamcomputing.com/
+  [streamcomputing/希姆计算](./streamcomputing.md)
+
 - https://www.t-head.cn/
   T-Head/平头哥
+
+- http://www.tecorigin.com/
+  tecorigin/太初
+
+- https://tenstorrent.com
+  [tenstorrent](./tenstorrent.md)
+
+- http://www.tsingmicro.com/
+  tsingmicro/清微智能
 
 - https://www.unisoc.com/cn_zh/
   unisoc/紫光展锐
@@ -163,8 +151,17 @@ ai chips &amp; startups
 - https://www.untether.ai/
   untether
 
+- https://www.vastaitech.com
+  [vastaitech/瀚博半导体](./vastaitech.md)
+
 - https://www.ventanamicro.com/
-  ventanamicro
+  [ventanamicro](./ventanamicro.md)
+
+- https://www.visinextek.com
+  [visinextek/为旌科技](./visinextek.md)
+
+- http://www.xdxct.com/
+  xdxct/象帝先计算技术
 
 - https://www.xrvm.cn/
   XuanTie/玄铁
