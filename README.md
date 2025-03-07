@@ -6,60 +6,53 @@ ai chips &amp; startups
 
 ## list
 
-- [ascend](./ascend.md)
-- [aws](./aws.md)
-- [axera-tech/爱芯元智](./axera-tech.md)
-- [esperanto](./esperanto.md)
-- [kunlunxin/昆仑芯](./kunlunxin.md)
-- [mthreads/摩尔线程](./mthreads.md)
-- [mtia](./mtia.md)
-- [rain](./rain.md)
-- [semidynamics](./semidynamics.md)
-- [streamcomputing/希姆计算](./streamcomputing.md)
-- [tenstorrent](./tenstorrent.md)
-- [tpu](./tpu.md)
-- [vastaitech/瀚博半导体](./vastaitech.md)
-- [ventanamicro](./ventanamicro.md)
-- [visinextek/为旌科技](./visinextek.md)
+- https://e.huawei.com/cn/products/computing/ascend
+- https://www.hiascend.com/zh/
+  [ascend](./ascend.md)
 
-## others
+- https://github.com/aws-neuron
+  [aws-neuron](./aws-neuron.md)
 
-- https://dl.acm.org/conference/asplos/proceedings
-  ASPLOS Proceedings
-- https://hotchips.org/
-  Hot Chips
-- https://dl.acm.org/conference/cgo/proceedings
-  CGO Proceedings
-- https://ieeexplore.ieee.org/xpl/conhome/1000335/all-proceedings
-  HPCA Proceedings
-- https://dl.acm.org/conference/icpe/proceedings
-  ICPE Conference
-- https://dl.acm.org/conference/isca/proceedings
-  ISCA Proceedings
-- https://ieeexplore.ieee.org/xpl/conhome/1000708/all-proceedings
-  ISSCC Proceedings
-- https://ieeexplore.ieee.org/xpl/conhome/1000440/all-proceedings
-  MICRO Proceedings
-- https://proceedings.mlsys.org/
-  MLSys Proceedings
-- https://ieeexplore.ieee.org/xpl/conhome/1000729/all-proceedings
-  SC Proceedings
-- https://dl.acm.org/conference/siggraph/proceedings
-  SIGGRAPH Proceedings
-- https://ieeexplore.ieee.org/xpl/conhome/1000802/all-proceedings
-  VLSI Proceedings
+- https://www.axera-tech.com/
+  [axera-tech/爱芯元智](./axera-tech.md)
 
-- https://www.youtube.com/playlist?list=PLpZKwgOOdKTp5k4Aeq3bGNUtTbxhHDhdT
-- https://www.youtube.com/@TechTechPotato
-  The AI Hardware Show
+- https://www.esperanto.ai/
+  [esperanto](./esperanto.md)
 
-## LICENSE
+- https://www.kunlunxin.com
+  [kunlunxin/昆仑芯](./kunlunxin.md)
 
-CC0 1.0 Universal [LICENSE](./LICENSE)
+- https://www.mthreads.com
+  [mthreads/摩尔线程](./mthreads.md)
 
-All data is publicly available information, no private data will be saved here.
+- https://ai.meta.com/blog/meta-training-inference-accelerator-AI-MTIA/
+- https://ai.meta.com/blog/next-generation-meta-training-inference-accelerator-AI-MTIA/
+  [meta-mtia](./meta-mtia.md)
 
-## TODO list
+- https://rain.ai
+  [rain](./rain.md)
+
+- https://semidynamics.com
+  [semidynamics](./semidynamics.md)
+
+- https://www.streamcomputing.com/
+  [streamcomputing/希姆计算](./streamcomputing.md)
+
+- https://tenstorrent.com
+  [tenstorrent](./tenstorrent.md)
+
+- https://cloud.google.com/tpu?hl=en
+- https://cloud.google.com/tpu/docs
+  [google-tpu](./google-tpu.md)
+
+- https://www.vastaitech.com
+  [vastaitech/瀚博半导体](./vastaitech.md)
+
+- https://www.ventanamicro.com
+  [ventanamicro](./ventanamicro.md)
+
+- https://www.visinextek.com
+  [visinextek/为旌科技](./visinextek.md)
 
 - https://www.sophon.ai/
 - https://forum.sophgo.com/
@@ -144,8 +137,6 @@ All data is publicly available information, no private data will be saved here.
 - https://www.semidrive.com/
   semidrive/芯驰科技
 
----
-
 - https://www.qualcomm.com/
   Qualcomm
 
@@ -184,3 +175,40 @@ All data is publicly available information, no private data will be saved here.
 
 - https://www.axelera.ai/
   axelera
+
+## refs & links
+
+- https://dl.acm.org/conference/asplos/proceedings
+  ASPLOS Proceedings
+- https://hotchips.org/
+  Hot Chips
+- https://dl.acm.org/conference/cgo/proceedings
+  CGO Proceedings
+- https://ieeexplore.ieee.org/xpl/conhome/1000335/all-proceedings
+  HPCA Proceedings
+- https://dl.acm.org/conference/icpe/proceedings
+  ICPE Conference
+- https://dl.acm.org/conference/isca/proceedings
+  ISCA Proceedings
+- https://ieeexplore.ieee.org/xpl/conhome/1000708/all-proceedings
+  ISSCC Proceedings
+- https://ieeexplore.ieee.org/xpl/conhome/1000440/all-proceedings
+  MICRO Proceedings
+- https://proceedings.mlsys.org/
+  MLSys Proceedings
+- https://ieeexplore.ieee.org/xpl/conhome/1000729/all-proceedings
+  SC Proceedings
+- https://dl.acm.org/conference/siggraph/proceedings
+  SIGGRAPH Proceedings
+- https://ieeexplore.ieee.org/xpl/conhome/1000802/all-proceedings
+  VLSI Proceedings
+
+- https://www.youtube.com/playlist?list=PLpZKwgOOdKTp5k4Aeq3bGNUtTbxhHDhdT
+- https://www.youtube.com/@TechTechPotato
+  The AI Hardware Show
+
+## LICENSE
+
+CC0 1.0 Universal [LICENSE](./LICENSE)
+
+All data is publicly available information, no private data will be saved here.

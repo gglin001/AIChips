@@ -1,6 +1,6 @@
 # vastaitech/瀚博半导体
 
-https://www.vastaitech.com
+- https://www.vastaitech.com
 
 ## notes
 
