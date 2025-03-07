@@ -71,14 +71,29 @@ ai chips &amp; startups
 - https://www.canaan-creative.com/
   canaan-creative/嘉楠科技
 
+- https://www.celestial.ai/
+  Celestial AI
+
 - https://cerebras.ai/
   Cerebras
+
+- https://www.ceva-ip.com/
+  Ceva
+
+- https://www.cixtech.com/
+  cixtech/此芯科技
 
 - https://www.cixtech.com/
   cixtech/此芯科技
 
 - https://codasip.com/
   Codasip
+
+- https://www.cygnusemi.com/
+  cygnusemi/星思半导体
+
+- https://www.d-matrix.ai/
+  d-Matrix
 
 - https://deepx.ai/
   DEEPX
@@ -104,13 +119,25 @@ ai chips &amp; startups
 - https://www.etched.com/
   etched
 
+- https://www.expedera.com/
+  Expedera
+
+- https://www.fractile.ai/
+  Fractile
+
 - https://furiosa.ai
 - https://github.com/furiosa-ai
   [furiosa](./furiosa.md)
 
+- https://www.gaisler.com/
+  Gaisler
+
 - https://cloud.google.com/tpu?hl=en
 - https://cloud.google.com/tpu/docs
   [google-tpu](./google-tpu.md)
+
+- https://www.gowinsemi.com.cn/
+  gowinsemi/高云半导体
 
 - https://groq.com
   groq
@@ -118,8 +145,17 @@ ai chips &amp; startups
 - https://hailo.ai/
   hailo
 
+- https://www.hexaflake.com/
+  Hexaflake/海飞科
+
+- https://www.hikstor.com/
+  hikstor/驰拓(MRAM)
+
 - https://en.horizon.auto/
   Horizon Robotics
+
+- https://www.hpmicro.com/
+  hpmicro/先楫半导体
 
 - https://www.hygon.cn/
   hygon/海光
@@ -127,23 +163,47 @@ ai chips &amp; startups
 - https://www.iluvatar.com/
   iluvatar/天数智芯
 
+- https://www.imaginationtech.com/
+  Imagination
+
 - https://incoresemi.com/
   InCore Semiconductors
 
 - https://www.innosilicon.cn/
+  Innosilicon/芯动科技
+
+- https://www.innosilicon.cn/
   innosilicon/芯动科技
+
+- https://www.innostar-semi.com/
+  innostar-semi/昕原半导体
 
 - https://www.intellif.com
   intellif/云天励飞
 
+- https://www.kneron.com/
+  Kneron
+
+- https://www.kniulink.com/
+  kniulink/牛芯半导体
+
 - https://www.kunlunxin.com
   [kunlunxin/昆仑芯](./kunlunxin.md)
+
+- https://www.lanxincomputing.com/index.html
+  lanxincomputing/蓝芯算力
 
 - https://www.lanxincomputing.com/
   lanxincomputing/蓝芯算力
 
 - https://lightmatter.co/
   lightmatter
+
+- https://www.lisuantech.com/
+  lisuantech/砺算科技
+
+- https://www.loongson.cn/
+  loongson/龙芯中科
 
 - https://www.mediatek.com/
   MediaTek
@@ -155,14 +215,38 @@ ai chips &amp; startups
 - https://www.metax-tech.com
   metax-tech/沐曦集成电路
 
+- https://www.mobileye.com/technology/eyeq-chip/
+  mobileye EyeQ
+
 - https://www.moffettai.com/
   moffettai/墨芯
+
+- https://www.montage-tech.com/cn
+  Montage/澜起科技
 
 - https://www.mthreads.com
   [mthreads/摩尔线程](./mthreads.md)
 
 - https://mythic.ai/
   mythic
+
+- https://www.neuchips.ai/
+  neuchips
+
+- https://www.nordicsemi.com/
+  Nordic Semiconductor
+
+- https://www.nucleisys.com/
+  Nuclei/芯来
+
+- https://www.nvidia.com/en-us/
+  NVIDIA
+
+- https://www.nxcorebase.com.cn/
+  nxcorebase/芯力基
+
+- https://www.pezy.co.jp/
+  PEZY Computing
 
 - https://pimchip.cn/
   pimchip/苹芯科技
@@ -173,8 +257,17 @@ ai chips &amp; startups
 - https://www.qualcomm.com/
   Qualcomm
 
+- https://www.quintauris.eu/
+  Quintauris
+
+- https://www.raiderchip.ai/
+  RaiderChip
+
 - https://rain.ai
   [rain](./rain.md)
+
+- https://www.rambus.com/
+  Rambus
 
 - https://rebellions.ai/
   Rebellions
@@ -188,21 +281,43 @@ ai chips &amp; startups
 - https://www.semidrive.com/
   semidrive/芯驰科技
 
+- https://www.semidrive.com/
+  semidrive/芯驰科技
+
 - https://semidynamics.com
   [semidynamics](./semidynamics.md)
+
+- https://www.sietium.com/
+  sietium/芯瞳
 
 - https://www.sietium.com/
   sietium/芯瞳半导体
 
 - https://www.sifive.com/
+- https://www.sifive.cn/
   SiFive
 
 - https://sima.ai/
   SiMa
 
+- https://www.skhynix.com/
+  SK hynix
+
+- https://www.smics.com/
+  smics/中芯国际
+
 - https://www.sophon.ai/
-- https://forum.sophgo.com/
+- https://www.sophgo.com/
   sophon/算能科技
+
+- https://www.spacemit.com/
+  spacemit/进迭时空
+
+- https://www.starblaze.com/
+  starblaze/忆芯科技
+
+- https://www.starfivetech.com/
+  starfivetech/赛昉科技
 
 - https://www.streamcomputing.com/
   [streamcomputing/希姆计算](./streamcomputing.md)
@@ -215,6 +330,9 @@ ai chips &amp; startups
 
 - http://www.tecorigin.com/
   tecorigin/太初
+
+- https://www.tensil.ai/
+  Tensil
 
 - http://www.tensorchip.com/
   tensorchip/千芯科技
@@ -234,6 +352,9 @@ ai chips &amp; startups
 - https://www.untether.ai/
   untether
 
+- https://www.upmem.com/
+  UPMEM
+
 - https://www.vastaitech.com
   [vastaitech/瀚博半导体](./vastaitech.md)
 
@@ -249,17 +370,35 @@ ai chips &amp; startups
 - https://wch-ic.com/
   wch-ic/NanjingQinhengMicroelectronics
 
+- https://www.wingsemitech.com/
+  Wingsemitech/隼瞻科技
+
+- https://www.wisewavetech.com/
+  wisewavetech/芯潮流
+
 - http://www.witintech.com/
   witintech/知存科技
 
+- https://www.x-phor.com/
+  x-phor/羲禾科技
+
+- https://www.x-silicon.com/
+  X-Silicon
+
 - http://www.xdxct.com/
   xdxct/象帝先计算技术
+
+- https://www.xmos.com/
+  XMOS
 
 - https://www.xrvm.cn/
   XuanTie/玄铁
 
 - https://www.xztech.ai/
   xztech/曦智科技
+
+- https://www.zenosic.com/
+  zenosic/篆芯
 
 ## refs & links
 
