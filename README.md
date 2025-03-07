@@ -24,12 +24,34 @@ ai chips &amp; startups
 
 ## others
 
+- https://dl.acm.org/conference/asplos/proceedings
+  ASPLOS Proceedings
+- https://hotchips.org/
+  Hot Chips
+- https://dl.acm.org/conference/cgo/proceedings
+  CGO Proceedings
+- https://ieeexplore.ieee.org/xpl/conhome/1000335/all-proceedings
+  HPCA Proceedings
+- https://dl.acm.org/conference/icpe/proceedings
+  ICPE Conference
+- https://dl.acm.org/conference/isca/proceedings
+  ISCA Proceedings
+- https://ieeexplore.ieee.org/xpl/conhome/1000708/all-proceedings
+  ISSCC Proceedings
+- https://ieeexplore.ieee.org/xpl/conhome/1000440/all-proceedings
+  MICRO Proceedings
+- https://proceedings.mlsys.org/
+  MLSys Proceedings
+- https://ieeexplore.ieee.org/xpl/conhome/1000729/all-proceedings
+  SC Proceedings
+- https://dl.acm.org/conference/siggraph/proceedings
+  SIGGRAPH Proceedings
+- https://ieeexplore.ieee.org/xpl/conhome/1000802/all-proceedings
+  VLSI Proceedings
+
 - https://www.youtube.com/playlist?list=PLpZKwgOOdKTp5k4Aeq3bGNUtTbxhHDhdT
 - https://www.youtube.com/@TechTechPotato
   The AI Hardware Show
-
-- https://hotchips.org/
-  Hot Chips
 
 ## LICENSE
 
