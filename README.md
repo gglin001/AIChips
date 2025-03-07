@@ -21,11 +21,11 @@ ai chips &amp; startups
 - https://www.allwinnertech.com/
   allwinnertech/全志
 
-- https://www.andestech.com
-  Andes
-
 - https://amperecomputing.com/
   amperecomputing
+
+- https://www.andestech.com
+  Andes
 
 - https://e.huawei.com/cn/products/computing/ascend
 - https://www.hiascend.com/zh/
@@ -207,11 +207,11 @@ ai chips &amp; startups
 - https://www.streamcomputing.com/
   [streamcomputing/希姆计算](./streamcomputing.md)
 
-- https://taalas.com/
-  Taalas
-
 - https://www.t-head.cn/
   T-Head/平头哥
+
+- https://taalas.com/
+  Taalas
 
 - http://www.tecorigin.com/
   tecorigin/太初
@@ -261,17 +261,14 @@ ai chips &amp; startups
 - https://www.xztech.ai/
   xztech/曦智科技
 
-- https://yizhu-tech.com/
-  yizhu-tech/亿铸科技
-
 ## refs & links
 
 - https://dl.acm.org/conference/asplos/proceedings
   ASPLOS Proceedings
-- https://hotchips.org/
-  Hot Chips
 - https://dl.acm.org/conference/cgo/proceedings
   CGO Proceedings
+- https://hotchips.org/archives/
+  Hot Chips Archives
 - https://ieeexplore.ieee.org/xpl/conhome/1000335/all-proceedings
   HPCA Proceedings
 - https://dl.acm.org/conference/icpe/proceedings

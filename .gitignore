@@ -1,1 +1,5 @@
 .DS_Store
+.vscode/
+
+tmp.md
+tmp.md.sort_list.md
