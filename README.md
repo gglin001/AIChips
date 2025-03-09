@@ -59,6 +59,9 @@ ai chips &amp; startups
 - https://bst.ai/zh.html
   blacksesame/黑芝麻智能
 
+- https://bolt.graphics/
+  Bolt Graphics
+
 - https://www.britesemi.com/
   britesemi/灿芯半导体
 
