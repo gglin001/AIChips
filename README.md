@@ -83,9 +83,6 @@ ai chips &amp; startups
 - https://www.cixtech.com/
   cixtech/此芯科技
 
-- https://www.cixtech.com/
-  cixtech/此芯科技
-
 - https://codasip.com/
   Codasip
 
@@ -172,9 +169,6 @@ ai chips &amp; startups
 - https://www.innosilicon.cn/
   Innosilicon/芯动科技
 
-- https://www.innosilicon.cn/
-  innosilicon/芯动科技
-
 - https://www.innostar-semi.com/
   innostar-semi/昕原半导体
 
@@ -191,9 +185,6 @@ ai chips &amp; startups
   [kunlunxin/昆仑芯](./kunlunxin.md)
 
 - https://www.lanxincomputing.com/index.html
-  lanxincomputing/蓝芯算力
-
-- https://www.lanxincomputing.com/
   lanxincomputing/蓝芯算力
 
 - https://lightmatter.co/
@@ -281,14 +272,8 @@ ai chips &amp; startups
 - https://www.semidrive.com/
   semidrive/芯驰科技
 
-- https://www.semidrive.com/
-  semidrive/芯驰科技
-
 - https://semidynamics.com
   [semidynamics](./semidynamics.md)
-
-- https://www.sietium.com/
-  sietium/芯瞳
 
 - https://www.sietium.com/
   sietium/芯瞳半导体
@@ -302,9 +287,6 @@ ai chips &amp; startups
 
 - https://www.skhynix.com/
   SK hynix
-
-- https://www.smics.com/
-  smics/中芯国际
 
 - https://www.sophon.ai/
 - https://www.sophgo.com/
